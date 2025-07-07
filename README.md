@@ -1,5 +1,5 @@
 # The River Meanders and Impermeabe Surfaces Model
-This model was developed as an extension of <a href = "https://ccl.northwestern.edu/netlogo/models/RiverMeanders">the River Meanders model from the NetLogo Models Library</a>. The extension of the model includes impermeable surfaces to determine how the distance and permeability of surfaces in the built environment affects the sinuosity of a river.
+Work completed for EES 4760 at Vanderbilt University. This model was developed as an extension of <a href = "https://ccl.northwestern.edu/netlogo/models/RiverMeanders">the River Meanders model from the NetLogo Models Library</a>. The extension of the model includes impermeable surfaces to determine how the distance and permeability of surfaces in the built environment affects the sinuosity of a river.
 
 ## Overview
 ### Purpose and Patterns
